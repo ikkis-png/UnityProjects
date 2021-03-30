@@ -170,3 +170,68 @@ Received Import Request.
 Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd09851ea0cb23673178e94ded307e20') in 0.012661 seconds
   Import took 0.019096 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 549.969640 seconds.
+  path: Assets/Scripts/SimpleCameraController.cs
+  artifactKey: Guid(be76e5f14cfee674cb30b491fb72b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SimpleCameraController.cs using Guid(be76e5f14cfee674cb30b491fb72b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae6b4f35d14ffd55fe7ee71b02ce95b') in 0.022575 seconds
+  Import took 0.035428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001445 seconds.
+  path: Assets/Scripts/SimpleCameraController.cs
+  artifactKey: Guid(be76e5f14cfee674cb30b491fb72b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SimpleCameraController.cs using Guid(be76e5f14cfee674cb30b491fb72b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae6b4f35d14ffd55fe7ee71b02ce95b') in 0.002010 seconds
+  Import took 0.008068 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001026 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.703 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2336 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.6 MB.
+System memory in use after: 110.4 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2896.
+Total: 3.796400 ms (FindLiveObjects: 0.341300 ms CreateObjectMapping: 0.152500 ms MarkObjects: 2.060100 ms  DeleteObjects: 1.241300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.618766 seconds.
+  path: Assets/BoxCode.cs
+  artifactKey: Guid(d4e71c40339a84b47aa043c442f327ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoxCode.cs using Guid(d4e71c40339a84b47aa043c442f327ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a998e96dd26939f29f75861c1dcb87c3') in 0.015351 seconds
+  Import took 0.028291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 296.344622 seconds.
+  path: Assets/BoxCode.cs
+  artifactKey: Guid(d4e71c40339a84b47aa043c442f327ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoxCode.cs using Guid(d4e71c40339a84b47aa043c442f327ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3533b54ed597caa4cca83eb2c928272c') in 0.008023 seconds
+  Import took 0.017306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/BoxCode.cs
+  artifactKey: Guid(d4e71c40339a84b47aa043c442f327ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BoxCode.cs using Guid(d4e71c40339a84b47aa043c442f327ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3533b54ed597caa4cca83eb2c928272c') in 0.003353 seconds
+  Import took 0.009763 seconds .
+
